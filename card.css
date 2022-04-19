@@ -1,0 +1,44 @@
+*{
+    margin:0px;
+    padding:10px;
+    box-shadow: 10px;
+    box-sizing: border-box;
+
+}
+div{
+    border: 3px solid #ff2f7f;
+    background-color: rgb(135, 33, 224);
+    margin-top: 30px;
+    text-align: center;
+    padding: 1rem;
+}
+.title{
+    text-align: center;
+    text-decoration: solid;
+    letter-spacing:5px;
+    color:darkorange;
+
+}
+.btn1{
+    text-transform: capitalize;
+    border:transparent;
+    border-radius: 0.5rem;
+    padding: 3px;
+    letter-spacing: 5px;
+    color: rgb(19, 236, 12);
+    background-color :#ff2f7f;
+}
+.btn2{
+    text-transform: capitalize;
+    border: transparent;
+    border-radius: 00.5rem;
+    padding :4px;
+    letter-spacing: 5px;
+    color: rgb(19, 236, 12);
+    background-color: #ff2f7f;
+}
+.text{
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: 100;
+}
